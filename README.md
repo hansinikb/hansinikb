@@ -22,3 +22,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hansini-9740&theme=tokyonight)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hansini-9740&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=DDDCD4)](https://git.io/streak-stats)
+
+![Activity graph](https://activity-graph.herokuapp.com/graph?username=hansini-9740&theme=react-dark)
