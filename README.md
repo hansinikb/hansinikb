@@ -10,14 +10,10 @@
 --->
 ## I am a B-Tech computer science student at PES University (RR).
 
-- 🌱 I’m currently building up my basics in Machine Learning.
-- 📫 How to reach me: [Instagram - @hansini_9740](https://www.instagram.com/hansini_9740/) ||
-                       [Linkedin - @hansinikb](https://www.linkedin.com/in/hansini-k-b-37a665223/)
 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I play the piano and basketball.
-## ✨ Languages
-- Python
+ 📫 How to reach me:[Linkedin - @hansinikb](https://www.linkedin.com/in/hansini-k-b-37a665223/)
+
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hansini-9740&theme=tokyonight)
 
