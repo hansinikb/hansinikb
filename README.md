@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 --->
-## I am a B-Tech computer science student at PES University (RR).
+### I am a B-Tech computer science student at PES University.
 
 
  📫 How to reach me:<br/>
