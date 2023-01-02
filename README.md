@@ -11,7 +11,8 @@
 ## I am a B-Tech computer science student at PES University (RR).
 
 
- 📫 How to reach me:[Linkedin - @hansinikb](https://www.linkedin.com/in/hansini-k-b-37a665223/)
+ 📫 How to reach me:<br/>
+ [Linkedin - @hansinikb](https://www.linkedin.com/in/hansini-k-b-37a665223/)
 
 
 
