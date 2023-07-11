@@ -12,8 +12,13 @@
 
 
  📫 How to reach me:<br/>
-             [Linkedin](https://www.linkedin.com/in/hansini-k-b-37a665223/)<br/>
-             Email ID- hansinikb@gmail.com
+ <ul>
+  <li>
+             [Linkedin](https://www.linkedin.com/in/hansini-k-b-37a665223/)<br/></li>
+  <li>
+                Email ID- hansinikb@gmail.com
+  </li>
+ </ul>
 
 
 
