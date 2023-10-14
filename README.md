@@ -2,7 +2,7 @@
 
 <!---
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a full stack project using Spring Boot
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,7 +14,7 @@
  📫 How to reach me:<br/>
  <ul>
   <li>
-             [Linkedin]<https://www.linkedin.com/in/hansini-k-b-37a665223/> </li>
+             [Linkedin]https://www.linkedin.com/in/hansini-k-b-37a665223/ </li>
   <li>
                 Email ID- hansinikb@gmail.com
   </li>
