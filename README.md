@@ -14,8 +14,6 @@
  📫 How to reach me:<br/>
  <ul>
   <li>
-             [Linkedin]https://www.linkedin.com/in/hansini-k-b-37a665223/ </li>
-  <li>
                 Email ID- hansinikb@gmail.com
   </li>
  </ul>
