@@ -14,7 +14,7 @@
  📫 How to reach me:<br/>
  <ul>
   <li>
-                Email ID- hansinikb@gmail.com
+                mailid- hansinikb@gmail.com
   </li>
  </ul>
 
