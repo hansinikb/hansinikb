@@ -8,15 +8,10 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 --->
-### I am a B-Tech computer science student at PES University.
+### I am a CS student at PES University.
 
 
- 📫 How to reach me:<br/>
- <ul>
-  <li>
-                mailid- hansinikb@gmail.com
-  </li>
- </ul>
+
 
 
 
