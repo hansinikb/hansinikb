@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 --->
-### I am a CS student at PES University.
+### I am an SDE at Broadridge Financial Solutions.
 
 
 
